@@ -1,0 +1,7 @@
+/target
+*.txt
+.DS_STORE
+.settings/
+.classpath
+.idea/
+.project
